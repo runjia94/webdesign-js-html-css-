@@ -1,0 +1,32 @@
+#div1{
+  color: red;
+  font-family:times;
+  border:10px solid lightgreen;
+  padding:1px;
+  font-size:12pt;
+  margin:10pt;
+}
+h1{color: blue;
+}
+#div2{
+  color: red;
+  font-family:times;
+  border:10px solid lightgreen;
+  padding:1px;
+  font-size:12pt;
+  margin:10pt;
+}
+h2{color: purple;
+}
+.orangeback{
+  background-color:orange;
+}
+.fuchsiaback{
+  background-color:fuchsia;
+}
+.blackback{
+  background-color:black;
+}
+.greenback{
+  background-color:green;
+}
